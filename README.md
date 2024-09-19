@@ -35,12 +35,4 @@
   - **CloudWatch Dashboard**: Highlights system health, storage costs, and monitoring details.
   ![image](https://github.com/user-attachments/assets/e3bde002-8dbf-434e-96bd-17f93438fcaf)
   ![image](https://github.com/user-attachments/assets/67f6f996-f65a-4c57-8dc2-007e083a2933)
-## Summary of Insights
-- **Permit Issuance**: Analysis of the permits revealed which departments issued the most permits in 2024 and 2025, helping to adjust resources accordingly.
-- **Performance Trends**: Monthly and yearly trends helped city officials predict periods of high permit activity and improve resource planning.
-- **Data Security**: Strong encryption and governance measures ensured the data remained protected and compliant with public health regulations.
-- **System Monitoring**: The monitoring setup provided real-time insights into system health and performance, allowing for cost-effective data management.
-## Conclusion
-- This project demonstrated how AWS services can be effectively leveraged to build a scalable and secure data analytics platform for managing and analyzing water system permits in Vancouver.
-- By implementing a robust pipeline for data processing and securing the data through encryption and governance measures, the city can now make data-driven decisions with confidence.
-- Stakeholders were provided with actionable insights, leading to improved water system performance and public health safety.
+
